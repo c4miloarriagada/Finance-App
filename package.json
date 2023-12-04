@@ -24,6 +24,7 @@
     "eslint-plugin-solid": "^0.13.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
+    "tslib": "^2.6.2",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
     "vite-plugin-solid": "^2.7.0"
